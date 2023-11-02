@@ -1,8 +1,7 @@
-import React from 'react';
-import LocalMoviesIcon from "@material-ui/icons/LocalMovies";
-import CasinoIcon from "@material-ui/icons/Casino";
-import MusicNoteIcon from "@material-ui/icons/MusicNote";
-import SportsEsportsIcon from "@material-ui/icons/SportsEsports";
+import LocalMoviesIcon from "@mui/icons-material/LocalMovies";
+import CasinoIcon from "@mui/icons-material/Casino";
+import MusicNoteIcon from "@mui/icons-material/MusicNote";
+import SportsEsportsIcon from "@mui/icons-material/SportsEsports";
 
 const Interests = () => {
     return (

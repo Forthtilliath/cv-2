@@ -1,10 +1,9 @@
-import React from "react";
 import "./User.css";
-import HomeIcon from '@material-ui/icons/Home';
-import PhoneIcon from "@material-ui/icons/Phone";
-import MailIcon from "@material-ui/icons/Mail";
-import EventIcon from "@material-ui/icons/Event";
-import LocationOnIcon from "@material-ui/icons/LocationOn";
+import HomeIcon from "@mui/icons-material/Home";
+import PhoneIcon from "@mui/icons-material/Phone";
+import MailIcon from "@mui/icons-material/Mail";
+import EventIcon from "@mui/icons-material/Event";
+import LocationOnIcon from "@mui/icons-material/LocationOn";
 
 const User = () => {
   return (
